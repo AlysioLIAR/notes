@@ -1,8 +1,10 @@
 ---
-title: Blog
-draft: false
+title: title
+aliases: 
+draft: true
 tags:
   - blog
+date:
 ---
 This is the blog page. 
 
