@@ -2,8 +2,7 @@
 title: 
 aliases: 
 draft: true
-tags: 
-date:
+tags:
 ---
 <% tp.file.cursor() %>
 

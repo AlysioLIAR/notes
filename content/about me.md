@@ -2,8 +2,7 @@
 title: About Me
 aliases: 
 draft: false
-tags: 
-date:
+tags:
 ---
 
 ### Research

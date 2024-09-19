@@ -4,6 +4,5 @@ aliases:
 draft: true
 tags:
   - newsletter
-date:
 ---
 

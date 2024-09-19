@@ -1,9 +1,8 @@
 ---
 title: Research
 aliases: 
-draft: true
-tags: 
-date:
+draft: false
+tags:
 ---
 
 

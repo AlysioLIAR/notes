@@ -3,8 +3,7 @@ title: Home
 aliases:
   - Home
 draft: false
-tags: 
-date:
+tags:
 ---
 Hi! I'm Thibaud. Welcome to my [Quartz](https://quartz.jzhao.xyz/) website! 
 
