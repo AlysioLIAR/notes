@@ -1,7 +1,7 @@
 ---
-title: title
+title: 
 aliases: 
 draft: true
 tags: 
-date: 
+date:
 ---
