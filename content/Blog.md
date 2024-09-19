@@ -1,5 +1,5 @@
 ---
-title: title
+title: Blog
 aliases: 
 draft: true
 tags:

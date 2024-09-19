@@ -1,5 +1,5 @@
 ---
-title: title
+title: Home
 aliases:
   - Home
 draft: false
